@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DefaultPDFExporterImpl" type="Groovy" />
       <mapping pattern="MultiThreading Notes" type="PLAIN_TEXT" />
       <mapping pattern="Design Pattern notes" type="PLAIN_TEXT" />
     </extensionMap>
