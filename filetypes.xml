@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="DefaultPDFExporterImpl" type="Groovy" />
       <mapping pattern="MultiThreading Notes" type="PLAIN_TEXT" />
+      <mapping pattern="ConcurrentAPI Notes" type="PLAIN_TEXT" />
       <mapping pattern="Design Pattern notes" type="PLAIN_TEXT" />
       <mapping pattern="Binary Seaarch tree notes" type="PLAIN_TEXT" />
     </extensionMap>
